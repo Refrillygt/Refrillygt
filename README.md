@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on: IDK<br><br>🤝 I’m looking to collaborate on: Simple Web Development or Student Projects<br><br>💛 I’m looking for help with: Frontend, Backend logic & Database optimization<br><br>🌿 I’m currently learning: JavaScript and PHP<br><br>⚡ Fun fact: I enjoy fixing errors more than writing perfect code 😄
+thank u
 
 
 ## 🌐 Socials:
