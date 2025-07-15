@@ -1,8 +1,6 @@
-# 💫 About Me:
-<p style="font-style: italic; color: #555; border-left: 4px solid #800080; padding-left: 10px; margin: 20px 0;">
-  "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-  <br><span style="font-weight: bold; color: #800080;">– Martin Fowler</span>
-</p>
+# 💫 About Refre:
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+– Martin Fowler
 
 
 ## 🌐 Socials:
