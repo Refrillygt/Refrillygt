@@ -1,5 +1,5 @@
 # 💫 About Me:
-thank u
+<p style="background: linear-gradient(to right, #800080, #FF0000);">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</p>
 
 
 ## 🌐 Socials:
