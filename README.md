@@ -1,23 +1,22 @@
 <div align="center">
 
 <a href="https://github.com/Refrillygt">
-  <img src="https://avatars.githubusercontent.com/Refrillygt?v=4" width="130" style="border-radius:50%;" alt="Refrilly GT" />
+  <img src="https://avatars.githubusercontent.com/Refrillygt?v=4" width="130" style="border-radius:50%;" alt="Refrilly Gregorian Tompodung" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Refrilly+GT+%F0%9F%91%8B;Full-Stack+Developer;Linux+%7C+Web+%7C+Mobile+%7C+IoT;Always+learning%2C+always+building+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Refrilly+Gregorian+Tompodung+%F0%9F%91%8B;Full-Stack+Developer;Linux+%7C+Web+%7C+Mobile+%7C+IoT;Always+learning%2C+always+building+%E2%9A%A1)
 
 ```
-██████╗ ███████╗███████╗██████╗ ███████╗
-██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝
-██████╔╝█████╗  █████╗  ██████╔╝█████╗  
-██╔══██╗██╔══╝  ██╔══╝  ██╔══██╗██╔══╝  
-██║  ██║███████╗██║     ██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝
+ ____  _____ _____ ____  ___ _     _  __   __
+|  _ \| ____|  ___|  _ \|_ _| |   | | \ \ / /
+| |_) |  _| | |_  | |_) || || |   | |  \ V / 
+|  _ <| |___|  _| |  _ < | || |___| |___| |  
+|_| \_\_____|_|   |_| \_\___|_____|_____|_|  
 ```
 
-### ⚡ Refrilly GT — Full-Stack Developer
+### ⚡ Refrilly Gregorian Tompodung — Full-Stack Developer
 
 *"Any fool can write code that a computer can understand.*
 *Good programmers write code that **humans** can understand."*
@@ -25,6 +24,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/refrillygt_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Refrillygt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-refrilly.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Refrillygt&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Refrillygt)
 
 </div>
@@ -34,13 +34,26 @@
 ## 🚀 About Me
 
 ```yaml
-name: Refrilly GT
+name: Refrilly Gregorian Tompodung
 location: Manado, North Sulawesi 🇮🇩
 focus: Full-Stack Web Development
 interests: [Web Dev, Networking, Cybersecurity, Gaming]
 currently_learning: Laravel + Advanced Python
+portfolio: https://portofolio-refrilly.vercel.app/
 fun_fact: I run Kali Linux and also lose at Valorant 🎮
 ```
+
+---
+
+## 🌐 Portfolio Preview
+
+<div align="center">
+
+[![Portfolio Preview](https://portofolio-refrilly.vercel.app/images/foto-profil-refrilly.jpeg)](https://portofolio-refrilly.vercel.app/)
+
+**🔗 [portofolio-refrilly.vercel.app](https://portofolio-refrilly.vercel.app/)**
+
+</div>
 
 ---
 
