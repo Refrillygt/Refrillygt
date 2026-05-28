@@ -1,8 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/Refrillygt">
-  <img src="https://github.com/Refrillygt.png" width="120" style="border-radius: 50%;" alt="Refrilly GT" />
+  <img src="https://avatars.githubusercontent.com/Refrillygt?v=4" width="130" style="border-radius:50%;" alt="Refrilly GT" />
 </a>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Refrilly+GT+%F0%9F%91%8B;Full-Stack+Developer;Linux+%7C+Web+%7C+Mobile+%7C+IoT;Always+learning%2C+always+building+%E2%9A%A1)
 
 ```
 ██████╗ ███████╗███████╗██████╗ ███████╗
