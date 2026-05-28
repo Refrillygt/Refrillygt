@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝
 ```
 
-### ⚡ Refrilly GT — Full-Stack Developer
+### ⚡ Refrilly Gregorian Tompodung
 
 *"Any fool can write code that a computer can understand.*
 *Good programmers write code that **humans** can understand."*
@@ -17,7 +17,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/refrillygt_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Refrillygt)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Refrillygt&icon=6&color=3)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Refrillygt&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Refrillygt)
 
 </div>
 
@@ -26,7 +26,7 @@
 ## 🚀 About Me
 
 ```yaml
-name: Refrilly GT
+name: Refrilly Gregorian Tompodung
 location: Manado, North Sulawesi 🇮🇩
 focus: Full-Stack Web Development
 interests: [Web Dev, Networking, Cybersecurity, Gaming]
@@ -78,11 +78,14 @@ fun_fact: I run Kali Linux and also lose at Valorant 🎮
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Refrillygt&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Refrillygt&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
