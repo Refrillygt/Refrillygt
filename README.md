@@ -50,7 +50,7 @@ fun_fact: I run Kali Linux and also lose at Valorant 🎮
 
 <div align="center">
 
-[![Portfolio Preview](https://portofolio-refrilly.vercel.app/images/foto-profil-refrilly.jpeg)](https://portofolio-refrilly.vercel.app/)
+[![Portfolio Preview](./assets/portfolio-preview.png)](https://portofolio-refrilly.vercel.app/)
 
 **🔗 [portofolio-refrilly.vercel.app](https://portofolio-refrilly.vercel.app/)**
 
