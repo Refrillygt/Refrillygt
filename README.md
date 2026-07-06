@@ -39,9 +39,8 @@ name: Refrilly Gregorian Tompodung
 location: Manado, North Sulawesi 🇮🇩
 focus: Full-Stack Web Development
 interests: [Web Dev, Networking, Cybersecurity, Gaming]
-currently_learning: Laravel + Advanced Python
+currently_learning: Next.js
 portfolio: https://portofolio-refrilly.vercel.app/
-fun_fact: I run Kali Linux and also lose at Valorant 🎮
 ```
 
 ---
