@@ -45,8 +45,6 @@ portfolio: https://portofolio-refrilly.vercel.app/
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Frameworks
@@ -116,7 +114,7 @@ portfolio: https://portofolio-refrilly.vercel.app/
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Refrillygt&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/216e39/Refrillygt" alt="Refrilly's GitHub Contribution Chart" />
 
 </div>
 
