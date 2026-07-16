@@ -27,22 +27,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-```yaml
-name: Refrilly Gregorian Tompodung
-location: Manado, North Sulawesi 🇮🇩
-interests: [Web Dev, Networking, Cybersecurity, Gaming]
-currently_learning: Next.js
-
-```
-
----
-
----
-
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
