@@ -17,7 +17,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Refrilly+Gregorian+Tompodung+%F0%9F%91%8B;Always+learning%2C+always+building+%E2%9A%A1)
 
-### ⚡ Refrilly Gregorian Tompodung — Full-Stack Developer
+### ⚡ Refrilly Gregorian Tompodung
 
 *"Any fool can write code that a computer can understand.*
 *Good programmers write code that **humans** can understand."*
