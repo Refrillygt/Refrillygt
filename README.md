@@ -19,7 +19,7 @@
 
 *"Any fool can write code that a computer can understand.*
 *Good programmers write code that **humans** can understand."*
-— Martin Fowler
+Martin Fowler
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/refrillygt_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Refrillygt)
