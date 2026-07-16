@@ -101,15 +101,6 @@ portfolio: https://portofolio-refrilly.vercel.app/
 
 ---
 
-## 🏆 Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Refrillygt&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
