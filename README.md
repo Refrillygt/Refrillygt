@@ -37,7 +37,6 @@
 ```yaml
 name: Refrilly Gregorian Tompodung
 location: Manado, North Sulawesi 🇮🇩
-focus: Full-Stack Web Development
 interests: [Web Dev, Networking, Cybersecurity, Gaming]
 currently_learning: Next.js
 portfolio: https://portofolio-refrilly.vercel.app/
