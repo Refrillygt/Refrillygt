@@ -87,13 +87,6 @@ currently_learning: Next.js
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Refrillygt&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
