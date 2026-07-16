@@ -112,13 +112,6 @@ portfolio: https://portofolio-refrilly.vercel.app/
 
 ---
 
-<div align="center">
-
-**💡 Open to collaborations and new projects!**
-
-*Building things that matter, one commit at a time.*
-
-</div>
 
 
 
