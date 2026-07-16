@@ -25,7 +25,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/refrillygt_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Refrillygt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-refrilly.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Refrillygt&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Refrillygt)
 
 </div>
@@ -39,7 +38,7 @@ name: Refrilly Gregorian Tompodung
 location: Manado, North Sulawesi 🇮🇩
 interests: [Web Dev, Networking, Cybersecurity, Gaming]
 currently_learning: Next.js
-portfolio: https://portofolio-refrilly.vercel.app/
+
 ```
 
 ---
