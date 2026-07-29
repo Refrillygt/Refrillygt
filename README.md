@@ -19,7 +19,7 @@
 <div align="center">
 
 **`Frontend`**&nbsp;
-<img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8" height="28" />
 <img src="https://img.shields.io/badge/TypeScript-1E3A5F?style=flat-square&logo=typescript&logoColor=60A5FA" height="28" />
 <img src="https://img.shields.io/badge/JavaScript-1C1917?style=flat-square&logo=javascript&logoColor=FBBF24" height="28" />
