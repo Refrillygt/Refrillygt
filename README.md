@@ -7,8 +7,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/refrilly-gregorian-tompodung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" /></a>&nbsp;
-<a href="https://instagram.com/refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="26" /></a>&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" /></a>&nbsp;
+<a href="https://instagram.com/Refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="26" /></a>&nbsp;
+<a href="mailto:refrillygtrgt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" /></a>&nbsp;
 <a href="https://portofolio-refrilly.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" height="26" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat&label=Views" height="26" />
 
