@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=220&section=header&text=Refrilly%20Gregorian%20Tompodung&fontSize=44&fontColor=FFFFFF&fontAlignY=48&fontFamily=Raleway&desc=Software%20Engineering%20Student&descSize=18&descAlignY=68&descColor=a5b4fc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=220&section=header&text=Refrilly%20Gregorian%20Tompodung&fontSize=44&fontColor=FFFFFF&fontAlignY=48&desc=Software%20Engineering%20Student&descSize=18&descAlignY=68&descColor=a5b4fc&animation=twinkling" width="100%" />
 
 <div align="center">
 
-<a href="www.linkedin.com/in/refrilly-gregorian-tompodung"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
+<a href="https://linkedin.com/in/Refrillygt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
 <a href="https://instagram.com/refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" /></a>&nbsp;
-<a href="mailto:refrillygtrgt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>&nbsp;
-<a href="[https://yourportfolio.dev](https://portofolio-refrilly.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" height="28" /></a>&nbsp;
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>&nbsp;
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" height="28" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat&label=Views" height="28" />
 
 <br/>
