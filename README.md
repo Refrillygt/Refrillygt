@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler</i>
+  <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,60:1e1b4b,100:0D1117&height=120&section=footer" width="100%" />
