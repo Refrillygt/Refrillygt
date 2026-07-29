@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<sub fontSize="20"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i></sub>
+<sub ><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i></sub>
 
 </div>
 
