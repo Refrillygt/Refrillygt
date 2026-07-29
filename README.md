@@ -71,13 +71,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Refrillygt&theme=github_dark" width="100%" />
 
-<sub>🐍 Snake not showing? <a href="https://github.com/Platane/snk">Enable GitHub Actions</a> to generate it.</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Refrillygt&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Refrillygt&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Refrillygt&theme=github_dark&utcOffset=8" width="32%" />
 
 </div>
 
