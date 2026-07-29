@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=220&section=header&text=%E2%9C%A6%20Refrilly%20Gregorian%20Tompodung%20%E2%9C%A6&fontSize=44&fontColor=FFFFFF&fontAlignY=48&desc=Software%20Engineering%20Student&descSize=18&descAlignY=68&descColor=a5b4fc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=240&section=header&text=%E2%9C%A6%20Refrilly%20Gregorian%20Tompodung%20%E2%9C%A6&fontSize=22&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descSize=13&descAlignY=65&descColor=a5b4fc&animation=fadeIn&fontFamily=Press%2BStart%2B2P" width="100%" />
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Refrillygt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
-<a href="https://instagram.com/refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" /></a>&nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="28" /></a>&nbsp;
-<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" height="28" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat&label=Views" height="28" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=A5B4FC&center=true&vCenter=true&width=700&height=60&lines=Refrilly+Gregorian+Tompodung" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=36&lines=Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
+<a href="https://linkedin.com/in/Refrillygt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" /></a>&nbsp;
+<a href="https://instagram.com/refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="26" /></a>&nbsp;
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" /></a>&nbsp;
+<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" height="26" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat&label=Views" height="26" />
 
 </div>
 
