@@ -18,65 +18,42 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-6366F1?style=for-the-badge&logoColor=white" />
+**`Frontend`**&nbsp;
+<img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-1E3A5F?style=flat-square&logo=typescript&logoColor=60A5FA" height="22" />
+<img src="https://img.shields.io/badge/JavaScript-1C1917?style=flat-square&logo=javascript&logoColor=FBBF24" height="22" />
+<img src="https://img.shields.io/badge/Tailwind-0C1A2E?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="22" />
+<img src="https://img.shields.io/badge/HTML5-1C1917?style=flat-square&logo=html5&logoColor=F97316" height="22" />
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=60A5FA" height="22" />
 
-<br/>
+**`Backend`**&nbsp;
+<img src="https://img.shields.io/badge/Node.js-0A1F0A?style=flat-square&logo=nodedotjs&logoColor=4ADE80" height="22" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=D1D5DB" height="22" />
+<img src="https://img.shields.io/badge/Laravel-1C0A0A?style=flat-square&logo=laravel&logoColor=FB7185" height="22" />
+<img src="https://img.shields.io/badge/PHP-150F2A?style=flat-square&logo=php&logoColor=A78BFA" height="22" />
+<img src="https://img.shields.io/badge/Python-0F1629?style=flat-square&logo=python&logoColor=60A5FA" height="22" />
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=FBBF24" height="22" />
 
-<img src="https://img.shields.io/badge/Next.js-09090B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/TypeScript-1E3A5F?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/JavaScript-1C1917?style=for-the-badge&logo=javascript&logoColor=FBBF24" />
-<img src="https://img.shields.io/badge/Tailwind-0C1A2E?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/HTML5-1C1917?style=for-the-badge&logo=html5&logoColor=F97316" />
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA" />
+**`Database`**&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-0F1629?style=flat-square&logo=postgresql&logoColor=60A5FA" height="22" />
+<img src="https://img.shields.io/badge/MySQL-0F1629?style=flat-square&logo=mysql&logoColor=38BDF8" height="22" />
+<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=E2E8F0" height="22" />
 
-<br/><br/>
+**`Tools`**&nbsp;
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F97316" height="22" />
+<img src="https://img.shields.io/badge/VS_Code-0F1629?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" height="22" />
+<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Copilot-111827?style=flat-square&logo=githubcopilot&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=D97757" height="22" />
+<img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F472B6" height="22" />
+<img src="https://img.shields.io/badge/Arduino-0C1A1A?style=flat-square&logo=arduino&logoColor=34D399" height="22" />
 
-<img src="https://img.shields.io/badge/Backend-6366F1?style=for-the-badge&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-0A1F0A?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=D1D5DB" />
-<img src="https://img.shields.io/badge/Laravel-1C0A0A?style=for-the-badge&logo=laravel&logoColor=FB7185" />
-<img src="https://img.shields.io/badge/PHP-150F2A?style=for-the-badge&logo=php&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Python-0F1629?style=for-the-badge&logo=python&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FBBF24" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Database-6366F1?style=for-the-badge&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-0F1629?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/MySQL-0F1629?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=E2E8F0" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tools-6366F1?style=for-the-badge&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" />
-<img src="https://img.shields.io/badge/VS_Code-0F1629?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Arduino-0C1A1A?style=for-the-badge&logo=arduino&logoColor=34D399" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OS-6366F1?style=for-the-badge&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FBBF24" />
-<img src="https://img.shields.io/badge/Ubuntu-1C0A0A?style=for-the-badge&logo=ubuntu&logoColor=FB7185" />
-<img src="https://img.shields.io/badge/Debian-1C0A0A?style=for-the-badge&logo=debian&logoColor=FB7185" />
-<img src="https://img.shields.io/badge/Kali_Linux-0F1629?style=for-the-badge&logo=kalilinux&logoColor=818CF8" />
+**`OS`**&nbsp;
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FBBF24" height="22" />
+<img src="https://img.shields.io/badge/Ubuntu-1C0A0A?style=flat-square&logo=ubuntu&logoColor=FB7185" height="22" />
+<img src="https://img.shields.io/badge/Debian-1C0A0A?style=flat-square&logo=debian&logoColor=FB7185" height="22" />
+<img src="https://img.shields.io/badge/Kali_Linux-0F1629?style=flat-square&logo=kalilinux&logoColor=818CF8" height="22" />
 
 </div>
 
