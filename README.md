@@ -55,9 +55,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1&rank_icon=github&include_all_commits=true&card_width=340" />&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&langs_count=6&card_width=260" />
 
 
+<img src="https://streak-stats.demolab.com?user=Refrillygt&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B&stroke=6366F1&sideNums=E2E8F0&currStreakNum=E2E8F0" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Refrillygt&bg_color=0D1117&color=818CF8&line=6366F1&point=818CF8&area=true&area_color=6366F1&hide_border=true&radius=4" width="100%" />
 
 </div>
 
