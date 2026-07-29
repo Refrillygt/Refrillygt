@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=240&section=header&text=%E2%9C%A6%20Refrilly%20Gregorian%20Tompodung%20%E2%9C%A6&fontSize=22&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descSize=13&descAlignY=65&descColor=a5b4fc&animation=fadeIn&fontFamily=Press%2BStart%2B2P" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=200&section=header&text=%E2%9C%A6%20Refrilly%20Gregorian%20Tompodung%20%E2%9C%A6&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descSize=14&descAlignY=65&descColor=a5b4fc&animation=fadeIn&fontFamily=Space+Grotesk" width="100%" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=A5B4FC&center=true&vCenter=true&width=700&height=60&lines=Refrilly+Gregorian+Tompodung" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
