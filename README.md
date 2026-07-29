@@ -8,7 +8,7 @@
 <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat-square&label=Views" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=13&pause=1500&color=818CF8&center=true&vCenter=true&width=420&height=28&lines=Building+clean%2C+scalable+software+%F0%9F%9A%80;TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=13&pause=1500&color=818CF8&center=true&vCenter=true&width=420&height=28&lines=Building+clean%2C+scalable+software+%F0%9F%9A%8;Always+learning%2C+always+shipping" />
 
 </div>
 
