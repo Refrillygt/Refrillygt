@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=240&section=header&text=Refrilly%20Gregorian%20Tompodung&fontSize=26&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineering%20Student&descSize=13&descAlignY=65&descColor=a5b4fc&animation=fadeIn&fontFamily=Press%2BStart%2B2P" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1e1b4b,100:4f46e5&height=240&section=header&fontAlignY=45&descAlignY=65&animation=fadeIn" width="100%" />
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=700&size=20&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+Refrilly+Gregorian+Tompodung+%E2%9C%A6" />
+</div>
 
 <div align="center">
 
