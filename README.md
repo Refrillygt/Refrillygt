@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=160&section=header&text=Refrilly%20Gregorian%20Tompodung&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=%20%E2%80%A2%20Software%20Engineering%20Student&descSize=14&descAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=160&section=header&text=Refrilly%20Gregorian%20Tompodung&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Software%20Engineering%20Student&descSize=14&descAlignY=70&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Refrillygt&color=6366F1&style=flat-square&label=Views" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=13&pause=1500&color=818CF8&center=true&vCenter=true&width=420&height=28&lines=Building+clean%2C+meaning+software;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=13&pause=1500&color=818CF8&center=true&vCenter=true&width=420&height=28&lines=Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
 </div>
 
