@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=18&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
 <br/>
 
