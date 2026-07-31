@@ -21,11 +21,6 @@
 ## Tools & Technologies
 
 
----
-<br></br>
-
-</div>
-
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
 <tr>
