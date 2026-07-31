@@ -23,7 +23,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
-<table display="flex" align="center">
+<table align="center">
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
@@ -168,6 +168,16 @@
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
     <br>GitHub
   </td>
+    <td align="center" width="96">
+    <!-- VS Code Icon -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+  <td align="center" width="96">
+    <!-- Cursor IDE Icon (Menggunakan logo resmi) -->
+    <img src="https://cursor.sh/brand/icon.svg" width="48" height="48" alt="Cursor IDE" />
+    <br>Cursor IDE
+  </td>
 </tr>
 </table>
 </div>
@@ -177,11 +187,6 @@
 <div align="center">
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=E2E8F0&hide_rank=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&langs_count=8" />
-
 </div>
 
 ---
