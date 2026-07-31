@@ -121,9 +121,10 @@
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     <br>Git
   </td>
-  <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/elyase/awesome-gpt3-logos/main/logos/claude.svg" width="48" height="48" alt="Claude AI" style="filter: invert(1);" />
-    <br>Claude AI
+    <td align="center" width="96">
+    <!-- VS Code Icon -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+    <br>VS Code
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
@@ -167,10 +168,9 @@
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
     <br>GitHub
   </td>
-    <td align="center" width="96">
-    <!-- VS Code Icon -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-    <br>VS Code
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/json-icon.svg" alt="JSON" width="48" height="48" />
+    <br>JSON
   </td>
   <td align="center" width="96">
     <img src="https://cursor.com/favicon.svg" width="48" height="48" alt="Cursor IDE" />
