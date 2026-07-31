@@ -184,10 +184,8 @@
 
 <div align="center">
 
-### GitHub Stats
+### Stats
 </div>
-
----
 
 <div align="center">
 
