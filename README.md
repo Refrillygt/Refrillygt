@@ -174,8 +174,7 @@
     <br>VS Code
   </td>
   <td align="center" width="96">
-    <!-- Cursor IDE Icon (Menggunakan logo resmi) -->
-    <img src="https://cursor.sh/brand/icon.svg" width="48" height="48" alt="Cursor IDE" />
+    <img src="https://cursor.com/favicon.svg" width="48" height="48" alt="Cursor IDE" />
     <br>Cursor IDE
   </td>
 </tr>
