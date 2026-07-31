@@ -21,8 +21,8 @@
 ## Tools & Technologies
 
 
-
-<br/>
+---
+<br></br>
 
 </div>
 
@@ -183,7 +183,7 @@
 </tr>
 </table>
 </div>
-
+<br></br>
 <div align="center">
 
 ### Stats
