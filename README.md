@@ -160,7 +160,7 @@
     <br>Android Studio
   </td>
   <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" alt="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
     <br>Canva
   </td>
   <td align="center" width="96">
