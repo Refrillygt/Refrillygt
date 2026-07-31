@@ -65,10 +65,11 @@
 
 <div align="center">
 
+<!-- pacman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Refrillygt/Refrillygt/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
