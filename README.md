@@ -14,11 +14,12 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## Tools & Technologies
+
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
@@ -120,8 +121,7 @@
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     <br>Git
   </td>
-    <td align="center" width="96">
-    <!-- VS Code Icon -->
+  <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
     <br>VS Code
   </td>
@@ -139,7 +139,7 @@
   </td>
 </tr>
 <tr>
-  <td display="flex" align="center" width="96">
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
     <br>Linux
   </td>
@@ -178,11 +178,13 @@
 </tr>
 </table>
 </div>
-<br></br>
+
+<br><br>
+
 <div align="center">
 
 ### Stats
----
+
 </div>
 
 <div align="center">
@@ -193,7 +195,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -206,7 +208,7 @@
 
 </div>
 
----
+<br>
 
 <p align="center">
   <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
