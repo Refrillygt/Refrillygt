@@ -23,7 +23,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
-<table align="center">
+<table display="flex" align="center">
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
