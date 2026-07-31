@@ -169,7 +169,7 @@
     <br>GitHub
   </td>
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/json-icon.svg" alt="JSON" width="48" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48" height="48" alt="JSON" />
     <br>JSON
   </td>
   <td align="center" width="96">
