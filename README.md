@@ -171,11 +171,11 @@
     <td align="center" width="96">
     <!-- VS Code Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-    <br>VS Code
+    <br>Visual Studio Code
   </td>
   <td align="center" width="96">
     <img src="https://cursor.com/favicon.svg" width="48" height="48" alt="Cursor IDE" />
-    <br>Cursor IDE
+    <br>Cursor
   </td>
 </tr>
 </table>
