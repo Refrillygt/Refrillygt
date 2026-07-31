@@ -19,7 +19,7 @@
 <div align="center">
 
 ## Tools & Technologies
-
+</div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
