@@ -160,11 +160,6 @@
     <br>Android Studio
   </td>
   <td align="center" width="96">
-    <!-- QGIS Icon (Menggunakan Wikipedia/Wikimedia source) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/QGIS_logo_2017.svg" width="48" height="48" alt="QGIS" />
-    <br>QGIS
-  </td>
-  <td align="center" width="96">
     <!-- Canva Icon (Menggunakan CDN Devicon/Brand) -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
     <br>Canva
@@ -172,11 +167,6 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
     <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <!-- Copilot Icon (Menggunakan link raw github user content atau brand svg) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/GitHub_Copilot_icon.svg" width="48" height="48" alt="Copilot" />
-    <br>Copilot
   </td>
 </tr>
 </table>
