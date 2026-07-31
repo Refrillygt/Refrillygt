@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
-<br/>
-
 <a href="https://www.linkedin.com/in/refrilly-gregorian-tompodung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" /></a>&nbsp;
 <a href="https://instagram.com/Refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="26" /></a>&nbsp;
 <a href="mailto:refrillygtrgt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" /></a>&nbsp;
@@ -14,8 +12,8 @@
 
 </div>
 
-<div display="flex" align="items">
-  Tech Stack
+<div style="display: flex; align-items: center">
+Tech Stack
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
