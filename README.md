@@ -173,7 +173,6 @@ Tech Stack
 </tr>
 </table>
 </div>
----
 
 <div display="flex "align="center">
 
