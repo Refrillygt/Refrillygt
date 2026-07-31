@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 </div>
 
@@ -160,11 +160,13 @@
     <br>Android Studio
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=qgis" width="48" height="48" alt="QGIS" />
+    <!-- QGIS Icon (Menggunakan Wikipedia/Wikimedia source) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/QGIS_logo_2017.svg" width="48" height="48" alt="QGIS" />
     <br>QGIS
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+    <!-- Canva Icon (Menggunakan CDN Devicon/Brand) -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
     <br>Canva
   </td>
   <td align="center" width="96">
@@ -172,7 +174,8 @@
     <br>GitHub
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=copilot" width="48" height="48" alt="Copilot" />
+    <!-- Copilot Icon (Menggunakan link raw github user content atau brand svg) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/GitHub_Copilot_icon.svg" width="48" height="48" alt="Copilot" />
     <br>Copilot
   </td>
 </tr>
@@ -183,7 +186,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=E2E8F0&hide_rank=false" />
 
