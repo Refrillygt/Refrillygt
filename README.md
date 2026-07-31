@@ -122,7 +122,7 @@
     <br>Git
   </td>
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="48" height="48" alt="Claude AI" />
+    <img src="https://www.anthropic.com/icon.svg" width="48" height="48" alt="Claude AI" />
     <br>Claude AI
   </td>
   <td align="center" width="96">
