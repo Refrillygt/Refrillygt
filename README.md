@@ -16,38 +16,79 @@
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FBBF24)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=60A5FA)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=D1D5DB)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FB7185)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=A78BFA)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=60A5FA)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FBBF24)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=E2E8F0)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F472B6)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=34D399)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FBBF24)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=FB7185)
-![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=FB7185)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=818CF8)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![QGIS](https://img.shields.io/badge/QGIS-0D1117?style=for-the-badge&logo=qgis&logoColor=589632)
-![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=next&theme=dark" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" />
+  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+</p>
+
+### Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" />
+</p>
+
+### OS & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=debian&theme=dark" alt="Debian" />
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" />
+</p>
+
+### Design & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=qgis&theme=dark" alt="QGIS" />
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Canva" />
+</p>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=E2E8F0&hide_rank=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&langs_count=8" />
 
 </div>
 
