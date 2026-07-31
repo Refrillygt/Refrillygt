@@ -14,10 +14,12 @@
 
 </div>
 
----
+<div display="flex" align="items">
+  Tech Stack
+</div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
-  Tech Stack
+
 <table align="center">
 <tr>
   <td align="center" width="96">
