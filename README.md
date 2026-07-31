@@ -177,13 +177,10 @@
 
 ---
 
-<div align="center">
+<div display="flex "align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=E2E8F0&hide_rank=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&langs_count=8" />
 
 </div>
 
