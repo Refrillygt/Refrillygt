@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=15&pause=1500&color=818CF8&center=true&vCenter=true&width=500&height=30&lines=Software+Engineering+Student;Building+clean%2C+meaningful+software;Always+learning%2C+always+shipping" />
 
+<br/>
+
 <a href="https://www.linkedin.com/in/refrilly-gregorian-tompodung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" /></a>&nbsp;
 <a href="https://instagram.com/Refrillygt_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="26" /></a>&nbsp;
 <a href="mailto:refrillygtrgt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" /></a>&nbsp;
@@ -12,12 +14,15 @@
 
 </div>
 
-<div style="display: flex; align-items: center">
-Tech Stack
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
-
 <table align="center">
 <tr>
   <td align="center" width="96">
@@ -174,10 +179,15 @@ Tech Stack
 </table>
 </div>
 
-<div display="flex "align="center">
+<br><br>
 
-### GitHub Stats
+<div align="center">
 
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Refrillygt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=E2E8F0&hide_rank=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrillygt&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&langs_count=8" />
 
 </div>
 
