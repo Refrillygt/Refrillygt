@@ -179,10 +179,12 @@
 </table>
 </div>
 <br></br>
+
 <div align="center">
+
 ---
 ### Stats
----
+
 </div>
 
 <div align="center">
