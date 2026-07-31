@@ -55,10 +55,7 @@
 
 <div align="center">
 
-
-
-<img src="https://streak-stats.demolab.com?user=Refrillygt&
-  hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B&stroke=6366F1&sideNums=E2E8F0&currStreakNum=E2E8F0" />
+<img src="https://streak-stats.demolab.com?user=Refrillygt&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B&stroke=6366F1&sideNums=E2E8F0&currStreakNum=E2E8F0" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Refrillygt&bg_color=0D1117&color=818CF8&line=6366F1&point=818CF8&area=true&area_color=6366F1&hide_border=true&radius=4" width="100%" />
 
@@ -79,6 +76,5 @@
 ---
 
 <p align="center">
-  <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler</i>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
 </p>
-
