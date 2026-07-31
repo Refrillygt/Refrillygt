@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Refrillygt&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Refrillygt&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Refrillygt&bg_color=0D1117&color=818CF8&line=6366F1&point=818CF8&area=true&area_color=6366F1&hide_border=true&radius=4" width="100%" />
 
