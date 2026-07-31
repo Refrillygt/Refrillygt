@@ -15,9 +15,9 @@
 </div>
 
 ---
-##Tech Stack
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
+  Tech Stack
 <table align="center">
 <tr>
   <td align="center" width="96">
