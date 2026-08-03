@@ -211,5 +211,5 @@
 ---
 
 <p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
+  <i>"Any fools can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
 </p>
