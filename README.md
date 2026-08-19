@@ -52,6 +52,14 @@
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
     <br>CSS3
   </td>
+    <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+    <br>REST API
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
 </tr>
 <tr>
   <td align="center" width="96">
@@ -92,14 +100,6 @@
   </td>
 </tr>
 <tr>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-    <br>REST API
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br>Git
-  </td>
     <td align="center" width="96">
     <!-- VS Code Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
