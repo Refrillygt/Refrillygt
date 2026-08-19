@@ -33,14 +33,6 @@
     <br>React
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-    <br>Vue
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-    <br>Svelte
-  </td>
-  <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
     <br>TypeScript
   </td>
@@ -101,20 +93,8 @@
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-  <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
     <br>REST API
-  </td>
-  <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-    <br>Nginx
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-    <br>GitHub Actions
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -126,56 +106,15 @@
     <br>VS Code
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-    <br>Vercel
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    <br>Figma
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
     <br>Arduino
   </td>
-</tr>
-<tr>
-  <td display="flex" align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-    <br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-    <br>Ubuntu
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
-    <br>Debian
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
-    <br>Kali Linux
-  </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
     <br>Android Studio
   </td>
-  <td align="center" width="96">
-    <img src="https://www.canva.com/favicon.ico" width="48" height="48" alt="Canva" style="border-radius: 8px;" />
-    <br>Canva
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-    <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48" height="48" alt="JSON" />
-    <br>JSON
-  </td>
-  <td align="center" width="96">
-    <img src="https://cursor.com/favicon.svg" width="48" height="48" alt="Cursor IDE" />
-    <br>Cursor
-  </td>
 </tr>
+
 </table>
 </div>
 <br></br>
